@@ -1,0 +1,50 @@
+Refactoring License
+
+Version 1.0, Date: 15-08-2023
+
+Preamble:
+
+This Refactoring License ("License") is a legal agreement between the Original Owner (hereinafter referred to as "Licensor") and any person obtaining a copy of the Code, Assets, 
+or any related work covered under this License (hereinafter referred to as "Licensee"). The purpose of this License is to protect the interests of both the Licensor and the Licensee,
+ensuring proper attribution and protection against unauthorized replication and redistribution.
+
+Definitions:
+
+Code: Refers to any computer code, software, scripts, algorithms, or programming instructions covered under this License.
+Assets: Refers to any media files, images, audio, video, graphics, designs, or other creative content covered under this License.
+Work: Encompasses both Code and Assets covered under this License.
+Original Owner: The individual or entity that holds the copyright and/or intellectual property rights to the Work, granting this License to the Licensee.
+Fork: A modified or derivative version of the Work created by the Licensee.
+
+License Terms:
+
+Usage and Distribution:
+
+a. The Licensee is granted the right to use, modify, and distribute the Work, provided that all terms of this License are strictly adhered to.
+b. The Licensee may not claim ownership of the original Work.
+c. Any distribution of the Work must include this License and clearly indicate the original source and the Original Owner.
+
+Attribution:
+
+a. The Licensee is required to provide proper attribution to the Original Owner in any derivative works, forks, or distributions of the Work.
+b. Attribution shall include the name of the Original Owner, the title of the Work, a link to the original source, and a mention of this License.
+c. If reasonably feasible, the attribution should be visible to end-users of the derivative works or forks.
+
+Source Code Disclosure:
+
+a. The Licensee must provide access to the complete corresponding source code of any distributed derivative work or fork of the Code.
+b. The source code shall be made available through a publicly accessible repository, clearly linked to the distribution of the derivative work or fork.
+Modification and Refactoring:
+a. The Licensee may refactor, modify, or adapt the Code for their own purposes, but all such modifications remain subject to this License.
+b. Refactoring, modification, or adaptation of the Code should not remove or alter any original attribution or copyright notices.
+
+Disclaimer and Limitation of Liability:
+
+The Work is provided "as is," without any warranties or guarantees, express or implied. 
+The Original Owner shall not be liable for any damages arising from the use or misuse of the Work,
+including but not limited to direct, indirect, special, incidental, or consequential damages.
+
+Termination:
+
+This License may be terminated if the Licensee fails to comply with its terms. Upon termination,
+all rights granted to the Licensee under this License will cease, and any further use, distribution, or modification of the Work is prohibited.
